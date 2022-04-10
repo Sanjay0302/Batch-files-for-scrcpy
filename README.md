@@ -32,3 +32,9 @@ NOTE:---->
 u need to set the scrcpy folder location to user path variable in Environment variable
 The scrcpy folder is Copied from official scrcpy repo
 
+------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/90672297/162629604-51bafd0f-2a88-4ff4-9266-4457e340d07f.png)
+---------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/90672297/162629732-93126d2c-d7ed-401c-86e3-edfc5f255eab.png)
+------------------------------------------------------------
+
