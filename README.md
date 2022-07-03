@@ -12,7 +12,7 @@ How to use this .bat Files
 First Download the bat files u required then go through the following documents 
 
 1. [`True wireless.md`](https://github.com/Sanjay0302/scrcpy/blob/main/How%20to%20use/True%20wireless.md)
-2. [`Partially wireless.md`]()
+2. [`Partially wireless.md`](https://github.com/Sanjay0302/scrcpy/blob/main/How%20to%20use/partial%20wireless.md)
 
 -------------------------------------------------------
 Why u need this .bat files
